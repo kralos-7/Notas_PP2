@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "Carlos L\u00F3pez",
+    "Telefono": "555-123-4567",
+    "Email": "carlos.lopez@example.com",
+    "Notas": "Amigo de la universidad"
+  },
+  {
+    "Nombre": "Mar\u00EDa Gonz\u00E1lez",
+    "Telefono": "555-987-6543",
+    "Email": "maria.gonzalez@example.com",
+    "Notas": "Compa\u00F1era de trabajo"
+  },
+  {
+    "Nombre": "Pedro Ram\u00EDrez",
+    "Telefono": "555-456-7890",
+    "Email": "pedro.ramirez@example.com",
+    "Notas": "Vecino"
+  },
+  {
+    "Nombre": "Ana Torres",
+    "Telefono": "555-321-0987",
+    "Email": "ana.torres@example.com",
+    "Notas": "Dentista"
+  },
+  {
+    "Nombre": "Laura Fern\u00E1ndez",
+    "Telefono": "555-654-1230",
+    "Email": "laura.fernandez@example.com",
+    "Notas": "Prima"
+  }
+]
